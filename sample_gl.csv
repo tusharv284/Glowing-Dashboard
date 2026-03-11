@@ -1,0 +1,6 @@
+Date,Account,Description,Debit,Credit
+2026-01-01,Cash,Opening Balance,1000.0,0.0
+2026-01-02,Cash,Deposit,500.0,0.0
+2026-01-03,Accounts Receivable,Invoice,0.0,0.0
+2026-01-01,Revenue,Sales,0.0,800.0
+2026-01-02,Revenue,Sales,0.0,200.0
